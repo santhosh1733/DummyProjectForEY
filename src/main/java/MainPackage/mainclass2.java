@@ -1,0 +1,7 @@
+package MainPackage;
+
+public class mainclass2 { 
+	 public static void main(String[] args) {
+		System.out.println("");
+	}
+}
